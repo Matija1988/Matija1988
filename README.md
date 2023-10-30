@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matija1988
-- 👀 I’m interested in JAVA, Android Apps
-- 🌱 I’m currently learning on the Odin project
+- 👀 I’m interested in C#, Unity, Vuforia
+- 🌱 I’m currently learning C# web development in EDUNOVA 
 - 💞️ I’m looking to collaborate on learning projects
 - 📫 How to reach me Discord - MatijaPav / Facebook - Matija Pavkovic / email - matijapavkovic74@gmail.com
 
