@@ -55,9 +55,6 @@ Hi, I'm **Matija Pavković** — a developer from **Croatia** with a background 
 
 - 📍 Osijek, Croatia
 - 💬 Open to collaboration, learning opportunities, and interesting software projects
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matija1988&label=Profile%20Views&color=ff4da6&style=flat" alt="profile views" />
-</p>
 
 <p align="center">
   <i>"Code, create, automate, repeat."</i>
