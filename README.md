@@ -28,6 +28,7 @@ Hi, I'm **Matija Pavković** — a developer from **Croatia** with a background 
 > Exploring AI-assisted workflows and document automation
 > Creating desktop and web solutions with modern tech stacks
 > Learning through hands-on private projects and production systems
+```
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matija1988&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=ff4da6&icon_color=00e5ff&text_color=ffffff" alt="GitHub stats" />
@@ -61,7 +62,6 @@ Hi, I'm **Matija Pavković** — a developer from **Croatia** with a background 
 <p align="center">
   <i>"Code, create, automate, repeat."</i>
 </p>
-```
 
 
 
