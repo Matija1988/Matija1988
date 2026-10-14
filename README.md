@@ -136,10 +136,6 @@ MEDIA PRODUCTION ──▶ WEB DEVELOPMENT ──▶ ENTERPRISE SOFTWARE ──�
   <img src="https://streak-stats.demolab.com?user=Matija1988&theme=dark&hide_border=true&background=0D1117&ring=FF2E97&fire=FF2E97&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matija1988&bg_color=0D1117&color=00E5FF&line=FF2E97&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
-</p>
-
 ---
 
 ## `// CONNECTION_PORT`
