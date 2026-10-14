@@ -28,3 +28,40 @@ Hi, I'm **Matija Pavković** — a developer from **Croatia** with a background 
 > Exploring AI-assisted workflows and document automation
 > Creating desktop and web solutions with modern tech stacks
 > Learning through hands-on private projects and production systems
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matija1988&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=ff4da6&icon_color=00e5ff&text_color=ffffff" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matija1988&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=ff4da6&text_color=ffffff" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Matija1988&theme=synthwave&hide_border=true&background=0D1117&ring=ff4da6&fire=ff4da6&currStreakLabel=00e5ff" alt="GitHub streak" />
+</p>
+
+🧠 What I Enjoy Building
+- Enterprise and internal business applications
+- AI-assisted tools and workflow automation
+- OCR and document processing solutions
+- Full-stack systems with strong backend foundations
+- Desktop apps with modern UI frameworks
+- AR/VR and interactive experiences
+📫 Connect With Me
+<p align="left">
+  <a href="mailto:matijapavkovic74@gmail.com">
+    <img src="https://img.shields.io/badge/Email-matijapavkovic74%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=ff4da6" alt="email" />
+  </a>
+</p>
+
+- 📍 Osijek, Croatia
+- 💬 Open to collaboration, learning opportunities, and interesting software projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matija1988&label=Profile%20Views&color=ff4da6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <i>"Code, create, automate, repeat."</i>
+</p>
+```
+
+
+
